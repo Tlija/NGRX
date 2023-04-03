@@ -7,4 +7,15 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'myApp';
+
+
+  count:number =0;
+  constructor(){
+
+
+
+  }
+
+
+
 }
